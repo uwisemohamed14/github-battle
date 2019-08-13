@@ -20,6 +20,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-icons": "^3.7.0",
+    "react-router-dom": "^5.0.1",
     "watchman": "^1.0.0"
   },
   "devDependencies": {
