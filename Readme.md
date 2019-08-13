@@ -1,0 +1,1 @@
+Tech stack: HTML, CSS, React, React Router, Github API
